@@ -1,5 +1,7 @@
 # hermes-claude-max-setup
 
+> **Superseded (November 2026).** Hermes Agent now runs on a Claude subscription natively through a provider plugin, so this skill is no longer needed or maintained. This repository is archived.
+
 A [Hermes Agent](https://claude-code.nousresearch.com) skill that configures Claude Max subscription billing for `claude -p` subagent calls and reduces Hermes API token costs.
 
 ## What this skill covers
